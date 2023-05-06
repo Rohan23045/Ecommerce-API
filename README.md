@@ -33,4 +33,8 @@ This is an E-commerce API made using Node.Js & MongoDB.
    * Put the id after localhost:3000/products/
    * After putting the id add /update_quantity/?number={x} in the url where x is the number by which you want to increase or decrease the quantity.
    * the url should be looking like localhost:3000/products/{id}/update_quantity/?number={x}
-   * Make a POST request and you should get a message containing the update product
+   * Make a POST request and you should get a message containing the updated product
+   
+## TECHSTACK
+   * Node.JS
+   * MongoDB
