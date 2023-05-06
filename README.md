@@ -6,11 +6,11 @@ This is an E-commerce API made using Node.Js & MongoDB.
 
 ## STEPS TO USE THE API:
 
-run "npm init" command on terminal in this projects directory
-start the server using node app.js
-Open postman
-Make a GET request on localhost:3000/products
-The products should be visible
+  * run "npm init" command on terminal in this projects directory
+  * start the server using node app.js
+  * Open postman
+  * Make a GET request on localhost:3000/products
+  * The products should be visible
 ## STEPS TO CREATE A NEW PRODUCT:
 
 start the server using node app.js
