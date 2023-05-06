@@ -1,6 +1,6 @@
 # Ecommerce-API
 
-## ABOUT
+## ABOUT:
 
 This is an E-commerce API made using Node.Js & MongoDB.
 
@@ -35,6 +35,6 @@ This is an E-commerce API made using Node.Js & MongoDB.
    * the url should be looking like localhost:3000/products/{id}/update_quantity/?number={x}
    * Make a POST request and you should get a message containing the updated product
    
-## TECHSTACK
+## TECHSTACK:
    * Node.JS
    * MongoDB
